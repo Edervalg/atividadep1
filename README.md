@@ -1,4 +1,5 @@
 -Sistema de Controle de Peças de Fábrica
+
 📌 Visão Geral
 Este programa em C permite gerenciar o cadastro de peças em uma fábrica, armazenando os dados em arquivos binários. O sistema oferece operações completas de CRUD (Create, Read, Update, Delete) e geração de relatórios por setor.
 
