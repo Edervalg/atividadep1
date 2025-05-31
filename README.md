@@ -80,7 +80,7 @@ Os códigos são gerados automaticamente e não se repetem
 📊 Exemplo de Uso
 Cadastre várias peças de diferentes setores
 
-Liste todas para verificar o cadastro
+Liste as peças para verificar o cadastro
 
 Gere relatórios por setor específico
 
@@ -88,14 +88,5 @@ Atualize quantidades quando necessário
 
 Remova peças que não estão mais em produção
 
-📝 Notas de Desenvolvimento
-Desenvolvido em C puro
 
-Não requer bibliotecas externas
-
-Código modular e comentado
-
-Implementa boas práticas de manipulação de arquivos
-
-Este sistema é ideal para o controle básico de estoque em pequenas fábricas ou oficinas mecânicas.
 
